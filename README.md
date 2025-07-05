@@ -11,9 +11,6 @@
 
 - 🤝 I’m looking for help with **IoT, Embedded Systems and ML**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1fhALofzb-EtkkiSQJbU0gVx1vSTgd92Z/view?usp=sharing]
-- (https://drive.google.com/file/d/1fhALofzb-EtkkiSQJbU0gVx1vSTgd92Z/view?usp=sharing)
-
 - 💬 Ask me about **Circuit design, Embedded systems, Signal Processing, Image Processing, C/C++, Python, ML, MATLAB, and Deep Learning**
 
 - 📫 How to reach me **abdulmaalik12086@gmail.com**
